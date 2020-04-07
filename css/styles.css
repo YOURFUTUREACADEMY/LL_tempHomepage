@@ -57,10 +57,10 @@ ul {
     h3 {
         font-size: 2.4rem;
     }
-    select {
-        width: 75%;
-    }
-    .adresCol {
-        margin-top: 0%;
+    #cancelled {
+        background-image: url('../img/cancelled.jpg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 26vh;
     }
 }
